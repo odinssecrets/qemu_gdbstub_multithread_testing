@@ -1,6 +1,6 @@
 ## README
 
-This repo is a simple test of for multithreading on qemu with usermode emulation.
+This repo is a simple test for multithreading on qemu with usermode emulation.
 Testing was done with an x86 host and a ppc guest, but it should be trivial to
 convert these files to work on other architectures.
 
